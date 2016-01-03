@@ -1,4 +1,4 @@
-## Quick Intro
+### Vim-OpenSIPS
 
 - This is a fork of only the `vim` utilities from the original [opensips]
 project using the following Git `filter-branch` action:
